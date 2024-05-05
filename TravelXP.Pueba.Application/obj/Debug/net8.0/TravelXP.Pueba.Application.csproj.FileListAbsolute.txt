@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\obj\Debug\net8.0\TravelXP.Pueba.Application.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\obj\Debug\net8.0\TravelXP.Pueba.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\obj\Debug\net8.0\TravelXP.Pueba.Application.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\obj\Debug\net8.0\TravelXP.Pueba.Application.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\obj\Debug\net8.0\TravelXP.Pueba.Application.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\bin\Debug\net8.0\TravelXP.Pueba.Application.deps.json
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\bin\Debug\net8.0\TravelXP.Pueba.Application.dll
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\bin\Debug\net8.0\TravelXP.Pueba.Application.pdb
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\bin\Debug\net8.0\TravelXP.Prueba.Domain.dll
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\bin\Debug\net8.0\TravelXP.Prueba.Domain.pdb
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\obj\Debug\net8.0\TravelXP.63609A08.Up2Date
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\obj\Debug\net8.0\TravelXP.Pueba.Application.dll
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\obj\Debug\net8.0\refint\TravelXP.Pueba.Application.dll
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\obj\Debug\net8.0\TravelXP.Pueba.Application.pdb
+C:\Users\brand\OneDrive\Escritorio\TravelXP\TravelXP.Prueba.API\TravelXP.Pueba.Application\obj\Debug\net8.0\ref\TravelXP.Pueba.Application.dll

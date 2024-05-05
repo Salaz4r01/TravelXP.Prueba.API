@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TravelXP.Prueba.API.props" />
+</Project>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gBLiVWGu3Tg0QZuX/2MHOXTeKGD94q+K0NduLGm2bamf2J+OQN83nIoEjvrg+g3YNoF5CfMjLtg5aT46PeS4Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Pueba.Application\\TravelXP.Pueba.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\awssdk.core\\3.7.303.12\\awssdk.core.3.7.303.12.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

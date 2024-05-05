@@ -1,0 +1,354 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.API\\TravelXP.Prueba.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.API\\TravelXP.Prueba.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.API\\TravelXP.Prueba.API.csproj",
+        "projectName": "TravelXP.Prueba.API",
+        "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.API\\TravelXP.Prueba.API.csproj",
+        "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Domain\\TravelXP.Prueba.Domain.csproj": {
+                "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Domain\\TravelXP.Prueba.Domain.csproj"
+              },
+              "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Infrastructure\\TravelXP.Prueba.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Infrastructure\\TravelXP.Prueba.Infrastructure.csproj"
+              },
+              "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Pueba.Application\\TravelXP.Pueba.Application.csproj": {
+                "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Pueba.Application\\TravelXP.Pueba.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.7.303.12, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Domain\\TravelXP.Prueba.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Domain\\TravelXP.Prueba.Domain.csproj",
+        "projectName": "TravelXP.Prueba.Domain",
+        "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Domain\\TravelXP.Prueba.Domain.csproj",
+        "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Infrastructure\\TravelXP.Prueba.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Infrastructure\\TravelXP.Prueba.Infrastructure.csproj",
+        "projectName": "TravelXP.Prueba.Infrastructure",
+        "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Infrastructure\\TravelXP.Prueba.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Domain\\TravelXP.Prueba.Domain.csproj": {
+                "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Domain\\TravelXP.Prueba.Domain.csproj"
+              },
+              "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Pueba.Application\\TravelXP.Pueba.Application.csproj": {
+                "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Pueba.Application\\TravelXP.Pueba.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Google.Cloud.Datastore.Admin.V1": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Google.Cloud.Datastore.V1": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "Google.Cloud.Storage.V1": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.6, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "cloudsql-proxy-cs": {
+              "target": "Package",
+              "version": "[1.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Pueba.Application\\TravelXP.Pueba.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Pueba.Application\\TravelXP.Pueba.Application.csproj",
+        "projectName": "TravelXP.Pueba.Application",
+        "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Pueba.Application\\TravelXP.Pueba.Application.csproj",
+        "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Pueba.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Domain\\TravelXP.Prueba.Domain.csproj": {
+                "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\TravelXP\\TravelXP.Prueba.API\\TravelXP.Prueba.Domain\\TravelXP.Prueba.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.7.303.12, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
