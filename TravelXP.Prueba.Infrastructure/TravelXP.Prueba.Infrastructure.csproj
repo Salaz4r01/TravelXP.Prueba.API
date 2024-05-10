@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="cloudsql-proxy-cs" Version="1.1.7" />
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="FluentAssertions" Version="6.12.0" />
+    <PackageReference Include="Google.Cloud.Datastore.Admin.V1" Version="2.3.0" />
+    <PackageReference Include="Google.Cloud.Datastore.V1" Version="4.10.0" />
+    <PackageReference Include="Google.Cloud.Storage.V1" Version="4.10.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
+    <PackageReference Include="MongoDB.Driver.Core" Version="2.25.0" />
+    <PackageReference Include="MySql.Data" Version="8.3.0" />
+    <PackageReference Include="MySqlConnector" Version="2.3.6" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TravelXP.Prueba.Domain\TravelXP.Prueba.Domain.csproj" />
+    <ProjectReference Include="..\TravelXP.Pueba.Application\TravelXP.Pueba.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="C:\Users\brand\.nuget\packages\cloudsql-proxy-cs\1.1.7\build\..\runtimes\win-x86\native\cloud_sql_proxy_x86.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="C:\Users\brand\.nuget\packages\cloudsql-proxy-cs\1.1.7\build\..\runtimes\win-x64\native\cloud_sql_proxy_x64.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="C:\Users\brand\.nuget\packages\cloudsql-proxy-cs\1.1.7\build\..\runtimes\win-x86\native\cloud_sql_proxy_x86.dll" />
+  </ItemGroup>
+
+</Project>
